@@ -5,3 +5,4 @@
 - Data Visualization using Streamlit | Food Demand Forecasting Data [`YouTube`](https://youtu.be/kAJNbcwj6gE)
 - Visualization of U-Net [`YouTube`](https://youtu.be/uJ63xbVPMKs)
 + t-SNE [`GitHub`](https://github.com/ShubhangiDabral13/Approaching-Any-Machine-Learning-Problems/tree/master/01).Supervised%20vs%20unsupervised%20learning)
+- Data Visualization with D3 – Full Course for Beginners [2022] [YouTube](https://youtu.be/xkBheRZTkaw)
